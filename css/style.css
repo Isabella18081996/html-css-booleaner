@@ -1,3 +1,105 @@
+main, footer{
+margin:auto;
+width: 80%;
+}
 header{
+  height: 100px;
+  background-color: lightblue;
+  background-image: url(../img/pattern.png);
+  background-size: 320px;
 
+}
+
+.logo{
+  height: 60px;
+  margin-left: 130px ;
+  margin-top: 20px;
+}
+
+body{
+  margin:0;
+}
+
+.sottotitoli{
+  font-size: 11px;
+}
+
+h1{
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+table{
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+thead{
+  background-color:#6495ed;
+  color: white;
+}
+
+
+
+.primariga{
+  background-color: lightblue;
+
+}
+
+.terzariga{
+  background-color: lightblue;
+
+}
+
+
+.giallo{
+  background-color: yellow;
+}
+
+.scrittaconsfondo{
+  background-image: url("../img/monitor.jpg");
+  height: 200px;
+  background-repeat: no-repeat;
+  padding:15px;
+  color: white;
+  font-size: 25px;
+}
+
+.scrittaconsfondo1{
+  background-image: url("../img/graph.jpg");
+  height: 200px;
+  background-repeat: no-repeat;
+  padding:15px;
+  color: white;
+  font-size: 25px;
+}
+
+.boolean{
+  color:rgb(91, 191, 224);
+}
+
+.sottotitoli{
+  margin-bottom: 20px;
+}
+
+ul{
+ padding: 18px;
+}
+
+.terzacolonna{
+  width: 50%;
+}
+
+h3{
+  color: gray;
+  margin-bottom: 15px;
+}
+
+p{
+  margin:0px;
+}
+
+.paragrafofinale{
+  margin-top: 20px;
 }
